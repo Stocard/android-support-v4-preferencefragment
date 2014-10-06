@@ -24,3 +24,5 @@ local.properties
 # IntelliJ Idea / Android Studio project files and directories.
 *.iml
 .idea/
+
+build/
